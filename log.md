@@ -24,3 +24,15 @@
 1. https://ide.geeksforgeeks.org/ri1HX5a9lS
 2. https://ide.geeksforgeeks.org/qooIxV38OO
 3. https://ide.geeksforgeeks.org/sTUv9ylJ3w
+
+
+### Day 2: June 24, 2020
+
+**Today's Progress**: Implemented
+1. Trapping rain water problem
+
+**Thoughts:** 
+
+**Link to work:** 
+1.https://ide.geeksforgeeks.org/ZY0UwL760A
+
