@@ -30,9 +30,19 @@
 
 **Today's Progress**: Implemented
 1. Trapping rain water problem
+2. Maximum consecutive 1s in a binary array
+3. Maximum sum contiguous subarray
+4. Longest Alernate Odd-Even Continuous Subarray
+5. Maximum longest circular sum contiguous subarray
 
-**Thoughts:** 
+**Thoughts:** Practised Kadane's algorithm approach, specially while implementing the 5th problem.
 
 **Link to work:** 
 1.https://ide.geeksforgeeks.org/ZY0UwL760A
+2.https://ide.geeksforgeeks.org/SYithK4Wgb
+3.https://ide.geeksforgeeks.org/y5ExJeYNBL
+4.https://ide.geeksforgeeks.org/2lNpehDmy7
+5.https://ide.geeksforgeeks.org/2h6sburpeS
+
+
 
