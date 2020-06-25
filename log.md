@@ -44,5 +44,22 @@
 4.https://ide.geeksforgeeks.org/2lNpehDmy7
 5.https://ide.geeksforgeeks.org/2h6sburpeS
 
+### Day 3: June 25, 2020
+**Today's Progress**: Implemented
+1. Majority Element in an array (https://www.geeksforgeeks.org/majority-element/)
+2. Minimum Group Flips required in a binary array to make all elements same (https://www.geeksforgeeks.org/minimum-group-flips-to-make-binary-array-elements-same/)
+3. Max Sum Subarray of size K(https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k/0)
+4. Print first n fibonacci numbers
+5. Print first m terms of n-bonacci number sequence(https://www.geeksforgeeks.org/n-bonacci-numbers/)
+6. Find equilibrium point in an array
+
+
+**Link to work:**
+1.https://ide.geeksforgeeks.org/NwHyoutp2K
+2.https://ide.geeksforgeeks.org/LFl3IT5dnF
+3.https://ide.geeksforgeeks.org/fRZNs2wMj3
+4.https://ide.geeksforgeeks.org/wt2V53mNmK
+5.https://ide.geeksforgeeks.org/3s6iO9E0no
+6.https://ide.geeksforgeeks.org/hTRJUHt6fh
 
 
