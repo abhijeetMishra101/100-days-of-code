@@ -62,4 +62,14 @@
 5.https://ide.geeksforgeeks.org/3s6iO9E0no
 6.https://ide.geeksforgeeks.org/hTRJUHt6fh
 
+### Day 4: June 26, 2020
+**Today's Progress**: Implemented
+1. Maximum occuring element in n ranges
+2. Is subarray with sum 0 present
+3. Check if an array can be divided into 3 equal sum subarrays
+
+**Link to work:**
+1.https://ide.geeksforgeeks.org/SySKmjMegQ
+2.https://ide.geeksforgeeks.org/CdZDZ1BTL3
+3.https://ide.geeksforgeeks.org/hkFmWKrUG7
 
