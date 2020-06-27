@@ -73,3 +73,14 @@
 2.https://ide.geeksforgeeks.org/CdZDZ1BTL3
 3.https://ide.geeksforgeeks.org/hkFmWKrUG7
 
+### Day 5: June 27, 2020
+**Today's Progress**: Implemented
+1. Find first and last occurance of a value in a sorted array
+2. Find count of an element in a sorted array
+3. Count number of 1s in a sorted binary array
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/BU2uQKfKGL
+2.https://ide.geeksforgeeks.org/5wLGTROZi2
+3.https://ide.geeksforgeeks.org/cqTtzicPp9
+
