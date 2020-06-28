@@ -84,3 +84,15 @@
 2.https://ide.geeksforgeeks.org/5wLGTROZi2
 3.https://ide.geeksforgeeks.org/cqTtzicPp9
 
+
+### Day 6: June 28, 2020
+**Today's Progress**: Implemented
+1. Count perfect squares less than a number
+2. Search an element in infinite sorted array
+3. Search an element in a sorted and then rotated array
+
+**Linke to work**
+1.https://ide.geeksforgeeks.org/pqCdkut6M4
+2.https://ide.geeksforgeeks.org/ZIxI4ORkPm
+3.https://ide.geeksforgeeks.org/0vGz9EbFLN
+
