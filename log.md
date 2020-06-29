@@ -91,8 +91,23 @@
 2. Search an element in infinite sorted array
 3. Search an element in a sorted and then rotated array
 
-**Linke to work**
+**Link to work**
 1.https://ide.geeksforgeeks.org/pqCdkut6M4
 2.https://ide.geeksforgeeks.org/ZIxI4ORkPm
 3.https://ide.geeksforgeeks.org/0vGz9EbFLN
+
+### Day 7: June 29, 2020
+**Today's Progress**: Implmented
+1.Search for a pair in unsorted array
+2.QuickSort Implementation
+3.Find triplet with given sum in an array
+4.Finding square root of a number
+5.Find peak element in an array
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/988QM3WP3J
+2.https://ide.geeksforgeeks.org/aHHkoHBhym
+3.https://ide.geeksforgeeks.org/cWoAFItLOR
+4.https://ide.geeksforgeeks.org/aDx2MjYGMV
+5.https://ide.geeksforgeeks.org/RPWQY9le8A
 
