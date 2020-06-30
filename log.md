@@ -111,3 +111,14 @@
 4.https://ide.geeksforgeeks.org/aDx2MjYGMV
 5.https://ide.geeksforgeeks.org/RPWQY9le8A
 
+### Day 8: June 30, 2020
+**Today's Progress**: Implemented
+1.Find floor value in a sorted array
+2.Find minimum in a sorted+rotated array
+3.Find two repeating elements
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/UF6Q2b98Ff
+2.https://ide.geeksforgeeks.org/LKyowfsPCJ
+3.https://ide.geeksforgeeks.org/gyEgB01i2t
+
