@@ -122,3 +122,15 @@
 2.https://ide.geeksforgeeks.org/LKyowfsPCJ
 3.https://ide.geeksforgeeks.org/gyEgB01i2t
 
+### Day 9: July 1, 2020
+**Today's Progress**: Implemented
+1.https://www.geeksforgeeks.org/roof-top/
+2.https://www.geeksforgeeks.org/maximum-water-that-can-be-stored-between-two-buildings/
+3.https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/t7tWduONXV
+2.https://ide.geeksforgeeks.org/vP4IVLYWY7
+3.https://ide.geeksforgeeks.org/41Hu1hdaFE
+
+
