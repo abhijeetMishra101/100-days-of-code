@@ -133,4 +133,13 @@
 2.https://ide.geeksforgeeks.org/vP4IVLYWY7
 3.https://ide.geeksforgeeks.org/41Hu1hdaFE
 
+### Day 10: July 2, 2020
+**Today's Progress**: Implemented
+1. https://practice.geeksforgeeks.org/problems/count-only-repeated/0/?track=SPCF-Searching&batchId=145
+2. https://www.geeksforgeeks.org/find-subarray-with-given-sum/
+3. https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/
 
+**Link to work**
+1.https://ide.geeksforgeeks.org/IoJ758Xpy8
+2.https://ide.geeksforgeeks.org/SgFfB8QHZb
+3.https://ide.geeksforgeeks.org/IakSGD2OR0
