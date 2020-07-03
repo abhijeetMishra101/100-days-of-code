@@ -143,3 +143,14 @@
 1.https://ide.geeksforgeeks.org/IoJ758Xpy8
 2.https://ide.geeksforgeeks.org/SgFfB8QHZb
 3.https://ide.geeksforgeeks.org/IakSGD2OR0
+
+### Day 11: July 3, 2020
+**Today's Progress**: Implemented
+1. https://www.geeksforgeeks.org/allocate-minimum-number-pages/
+2. https://www.geeksforgeeks.org/median-two-sorted-arrays-different-sizes-ologminn-m/?ref=rp
+3. https://www.geeksforgeeks.org/print-left-view-binary-tree/
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/1RwEoPyFtl
+2.https://ide.geeksforgeeks.org/D5VUUOc5NV
+3.https://ide.geeksforgeeks.org/c89ay0jeRJ
