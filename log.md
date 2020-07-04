@@ -154,3 +154,16 @@
 1.https://ide.geeksforgeeks.org/1RwEoPyFtl
 2.https://ide.geeksforgeeks.org/D5VUUOc5NV
 3.https://ide.geeksforgeeks.org/c89ay0jeRJ
+
+### Day 12: July 4, 2020
+**Today's Progress**: Implemented
+1.Insertion Sort
+2.Merge Sort
+3.Sorting a binary array
+4.Quick Sort
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/aH2PwV1xgh
+2.https://ide.geeksforgeeks.org/KzqIAnp3v6
+3.https://ide.geeksforgeeks.org/WbQcC7SKFR
+4.https://ide.geeksforgeeks.org/CF1oyugIjo
