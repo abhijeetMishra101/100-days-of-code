@@ -167,3 +167,12 @@
 2.https://ide.geeksforgeeks.org/KzqIAnp3v6
 3.https://ide.geeksforgeeks.org/WbQcC7SKFR
 4.https://ide.geeksforgeeks.org/CF1oyugIjo
+
+### Day 13: July 5, 2020
+**Today's Progress**: Implemented
+1. Count inversions in an array
+2. Find kth smallest in an array using Lomuto's partition technique
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/7zBomOjLzt
+2.https://ide.geeksforgeeks.org/aNiLKvgJ5Z
