@@ -176,3 +176,12 @@
 **Link to work**
 1.https://ide.geeksforgeeks.org/7zBomOjLzt
 2.https://ide.geeksforgeeks.org/aNiLKvgJ5Z
+
+### Day 14: July 6, 2020
+**Today's Progress**: Implemented
+1. Union of two sorted arrays without repetition
+2. Intersection of two sorted arrays without repetition
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/8QDge19TzV
+2.https://ide.geeksforgeeks.org/inenTGAOxt
