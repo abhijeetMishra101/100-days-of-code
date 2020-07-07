@@ -185,3 +185,10 @@
 **Link to work**
 1.https://ide.geeksforgeeks.org/8QDge19TzV
 2.https://ide.geeksforgeeks.org/inenTGAOxt
+
+### Day 15: July 6, 2020
+**Today's Progress**
+1.Array 3 way partitioning
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/l50pEtc4tl
