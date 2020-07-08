@@ -192,3 +192,14 @@
 
 **Link to work**
 1.https://ide.geeksforgeeks.org/l50pEtc4tl
+
+### Day 16: July 7, 2020
+**Today's Progress**
+1. Chocolate Distribution Problem
+2. Merging Overlapping Intervals
+3. Maximum Intervals Overlap
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/akZivqERdI
+2.https://ide.geeksforgeeks.org/rWzrjcdwjm
+3.https://ide.geeksforgeeks.org/TubbHIJ2L4
