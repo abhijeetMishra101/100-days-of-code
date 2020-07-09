@@ -186,14 +186,14 @@
 1.https://ide.geeksforgeeks.org/8QDge19TzV
 2.https://ide.geeksforgeeks.org/inenTGAOxt
 
-### Day 15: July 6, 2020
+### Day 15: July 7, 2020
 **Today's Progress**
 1.Array 3 way partitioning
 
 **Link to work**
 1.https://ide.geeksforgeeks.org/l50pEtc4tl
 
-### Day 16: July 7, 2020
+### Day 16: July 8, 2020
 **Today's Progress**
 1. Chocolate Distribution Problem
 2. Merging Overlapping Intervals
@@ -203,3 +203,13 @@
 1.https://ide.geeksforgeeks.org/akZivqERdI
 2.https://ide.geeksforgeeks.org/rWzrjcdwjm
 3.https://ide.geeksforgeeks.org/TubbHIJ2L4
+
+### Day 17: July 9, 2020
+**Today's Progress**
+1. Find if a triplet with zero sum is present
+2. Count number of traingles that can be formed from an array
+
+**Link to work**
+1.https://ide.geeksforgeeks.org/n97n6P0lHF
+2.https://ide.geeksforgeeks.org/MhDuzdK4NC
+
