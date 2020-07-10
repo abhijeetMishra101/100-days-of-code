@@ -213,3 +213,11 @@
 1.https://ide.geeksforgeeks.org/n97n6P0lHF
 2.https://ide.geeksforgeeks.org/MhDuzdK4NC
 
+
+### Day 18: July 10, 2020
+**Today's Progress**
+1. Sort an according to absolute difference
+
+**Link**
+1.https://ide.geeksforgeeks.org/VfmbI74Iw9
+
