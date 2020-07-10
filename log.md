@@ -217,7 +217,9 @@
 ### Day 18: July 10, 2020
 **Today's Progress**
 1. Sort an according to absolute difference
+2. Find if a triplet with a sum is present
 
 **Link**
 1.https://ide.geeksforgeeks.org/VfmbI74Iw9
+2.https://ide.geeksforgeeks.org/6WUgjccuSo
 
