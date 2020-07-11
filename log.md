@@ -225,6 +225,8 @@
 
 ### Day 19: July 11, 2020
 1. Dutch National Flag Problem
+2. Rearrange Array Alternately
 
 **Link**
 1.https://ide.geeksforgeeks.org/DZK0ZG0W9p
+2.https://ide.geeksforgeeks.org/Dmgy2UO2jj
