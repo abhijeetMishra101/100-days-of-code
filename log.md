@@ -223,3 +223,8 @@
 1.https://ide.geeksforgeeks.org/VfmbI74Iw9
 2.https://ide.geeksforgeeks.org/6WUgjccuSo
 
+### Day 19: July 11, 2020
+1. Dutch National Flag Problem
+
+**Link**
+1.https://ide.geeksforgeeks.org/DZK0ZG0W9p
