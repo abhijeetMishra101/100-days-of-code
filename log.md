@@ -230,3 +230,9 @@
 **Link**
 1.https://ide.geeksforgeeks.org/DZK0ZG0W9p
 2.https://ide.geeksforgeeks.org/Dmgy2UO2jj
+
+### Day 20: July 12, 2020
+1. Counting sort implementation for a character array
+
+**Link**
+1.https://ide.geeksforgeeks.org/oTRrpORFPp
