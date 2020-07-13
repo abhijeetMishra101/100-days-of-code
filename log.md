@@ -236,3 +236,9 @@
 
 **Link**
 1.https://ide.geeksforgeeks.org/oTRrpORFPp
+
+### Day 21: July 13, 2020
+1. Find all pairs from X[], Y[] such that x^y > y^x
+
+**Link**
+1.https://ide.geeksforgeeks.org/UlJblfZedS
