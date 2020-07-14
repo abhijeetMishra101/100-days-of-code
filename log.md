@@ -242,3 +242,10 @@
 
 **Link**
 1.https://ide.geeksforgeeks.org/UlJblfZedS
+
+
+### Day 22: July 14, 2020
+1. Merge three sorted arrays
+
+**Link**
+1.https://ide.geeksforgeeks.org/rsizAKuf8I
