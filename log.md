@@ -249,3 +249,9 @@
 
 **Link**
 1.https://ide.geeksforgeeks.org/rsizAKuf8I
+
+### Day 23: July 15, 2020
+1. Search in almost sorted array(https://www.geeksforgeeks.org/search-almost-sorted-array/)
+
+**Link**
+1.https://ide.geeksforgeeks.org/7vhUkPswWx
