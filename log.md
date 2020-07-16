@@ -254,4 +254,8 @@
 1. Search in almost sorted array(https://www.geeksforgeeks.org/search-almost-sorted-array/)
 
 **Link**
-1.https://ide.geeksforgeeks.org/7vhUkPswWx
+https://ide.geeksforgeeks.org/7vhUkPswWx
+
+### Day 24: July 16, 2020
+**Link**
+https://ide.geeksforgeeks.org/tzFdAVMrHM
