@@ -257,5 +257,8 @@
 https://ide.geeksforgeeks.org/7vhUkPswWx
 
 ### Day 24: July 16, 2020
+
+1.Merge two sorted arrays without extra space https://www.geeksforgeeks.org/efficiently-merging-two-sorted-arrays-with-o1-extra-space/
+
 **Link**
 https://ide.geeksforgeeks.org/tzFdAVMrHM
