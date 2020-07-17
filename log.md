@@ -262,3 +262,9 @@ https://ide.geeksforgeeks.org/7vhUkPswWx
 
 **Link**
 https://ide.geeksforgeeks.org/tzFdAVMrHM
+
+### Day 25: July 17, 2020
+1. Find Minimum number of platforms https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1/?track=SPCF-Sorting&batchId=145
+
+**Link**
+1.https://ide.geeksforgeeks.org/Oe0ycipGgj
