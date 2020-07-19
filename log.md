@@ -275,3 +275,8 @@ Sprial Order Traversal of Matrix
 
 **Link**
 https://ide.geeksforgeeks.org/vpoapGRUqL
+
+### Day 27: July 19, 2020
+Boolean Matrix Problem(https://www.geeksforgeeks.org/a-boolean-matrix-question/)
+**Link**
+https://ide.geeksforgeeks.org/yatx0SxAyw
