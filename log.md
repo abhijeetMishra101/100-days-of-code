@@ -280,3 +280,8 @@ https://ide.geeksforgeeks.org/vpoapGRUqL
 Boolean Matrix Problem(https://www.geeksforgeeks.org/a-boolean-matrix-question/)
 **Link**
 https://ide.geeksforgeeks.org/yatx0SxAyw
+
+### Day 28: July 20, 2020
+Transpose of a matrix
+**Link**
+https://ide.geeksforgeeks.org/KZiCUbhrm2
