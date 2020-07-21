@@ -285,3 +285,8 @@ https://ide.geeksforgeeks.org/yatx0SxAyw
 Transpose of a matrix
 **Link**
 https://ide.geeksforgeeks.org/KZiCUbhrm2
+
+### Day 29: July 21, 2020
+Check if binary tree is root sum tree
+**Link**
+https://ide.geeksforgeeks.org/lgF1L9is9z
