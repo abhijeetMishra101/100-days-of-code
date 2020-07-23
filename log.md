@@ -290,3 +290,9 @@ https://ide.geeksforgeeks.org/KZiCUbhrm2
 Check if binary tree is root sum tree
 **Link**
 https://ide.geeksforgeeks.org/lgF1L9is9z
+
+### Day 30: July 23, 2020
+1. Determine if two binary trees are identical 
+https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1/?track=PC-W6-T&batchId=145
+2. Check for balanced binary tree
+https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1/?track=PC-W6-T&batchId=145
