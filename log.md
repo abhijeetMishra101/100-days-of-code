@@ -296,3 +296,16 @@ https://ide.geeksforgeeks.org/lgF1L9is9z
 https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1/?track=PC-W6-T&batchId=145
 2. Check for balanced binary tree
 https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1/?track=PC-W6-T&batchId=145
+
+
+### Day 31: July 27, 2020
+1. Passing a 2D array without specifying number of rows (Simple question, but needed to practice this for reference).
+2. Passing a 2D array using C style double pointers
+3. Passing a 2D array using vector of vectors(Useful approach when using a 2D array where every row has different number of col)
+4. Print a 2D array in snake pattern
+
+**Link**
+1. https://ide.geeksforgeeks.org/AWY4lpnH7q
+2. https://ide.geeksforgeeks.org/LDL9e5Zmhe
+3. https://ide.geeksforgeeks.org/qfX8vK6hLo
+4. https://ide.geeksforgeeks.org/jGHFfcJY0y
