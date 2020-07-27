@@ -303,9 +303,17 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 2. Passing a 2D array using C style double pointers
 3. Passing a 2D array using vector of vectors(Useful approach when using a 2D array where every row has different number of col)
 4. Print a 2D array in snake pattern
+5. Boundary traversal of 2D array
+6. Transpose of 2D array(done it again!)
+7. Rotate a 2D counter clockwise
+8. Searching in row-wise & column wise sorted 2D array
 
 **Link**
 1. https://ide.geeksforgeeks.org/AWY4lpnH7q
 2. https://ide.geeksforgeeks.org/LDL9e5Zmhe
 3. https://ide.geeksforgeeks.org/qfX8vK6hLo
 4. https://ide.geeksforgeeks.org/jGHFfcJY0y
+5. https://ide.geeksforgeeks.org/0fwWTaCRzy
+6. https://ide.geeksforgeeks.org/vGZnWxG6Ny
+7. https://ide.geeksforgeeks.org/jSiuw7eyXi
+8. https://ide.geeksforgeeks.org/Ft2OeLMQIN
