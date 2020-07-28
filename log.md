@@ -317,3 +317,20 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 6. https://ide.geeksforgeeks.org/vGZnWxG6Ny
 7. https://ide.geeksforgeeks.org/jSiuw7eyXi
 8. https://ide.geeksforgeeks.org/Ft2OeLMQIN
+
+### Day 32: July 28, 2020
+1. Addition of 2 matrices
+2. Sum of upper and lower traingles in a 2D array
+3. Multiplication of 2 matrices
+4. Exchange matrix columns
+5. Reversing columns of a matrix
+6. Exchange matrix rows
+
+**Link**
+1. https://ide.geeksforgeeks.org/sqkhrUMu3l
+2. https://ide.geeksforgeeks.org/xLPF10tNST
+3. https://ide.geeksforgeeks.org/f1vaQtIeNq
+4. https://ide.geeksforgeeks.org/M5nk9mKDx0
+5. https://ide.geeksforgeeks.org/yzG9Ipo9v5
+6. https://ide.geeksforgeeks.org/8lsm5ESGpj
+
