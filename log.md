@@ -334,3 +334,12 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 5. https://ide.geeksforgeeks.org/yzG9Ipo9v5
 6. https://ide.geeksforgeeks.org/8lsm5ESGpj
 
+
+### Day 33: July 29, 2020
+1. Reverse words in a string
+2. Find if two strings are anagrams of each other or not
+
+**Link**
+1.https://ide.geeksforgeeks.org/IpAZGAR3Mx
+2.https://ide.geeksforgeeks.org/Izw1KnVava
+
