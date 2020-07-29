@@ -338,8 +338,10 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 ### Day 33: July 29, 2020
 1. Reverse words in a string
 2. Find if two strings are anagrams of each other or not
+3. Find leftmost repeating character of a string
 
 **Link**
 1.https://ide.geeksforgeeks.org/IpAZGAR3Mx
 2.https://ide.geeksforgeeks.org/Izw1KnVava
+3.https://ide.geeksforgeeks.org/RnWitoGt7k
 
