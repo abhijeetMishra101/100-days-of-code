@@ -345,3 +345,15 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 2.https://ide.geeksforgeeks.org/Izw1KnVava
 3.https://ide.geeksforgeeks.org/RnWitoGt7k
 
+### Day 34: July 30, 2020
+1. Count of all substrings that start and end with 1
+2. Implement strstr function
+3. Check if one string can be obtained by anticlockwise rotation of another string by exactly 2 places
+4. Check if 2 strings are rotations of each other
+
+**Link**
+1. https://ide.geeksforgeeks.org/QxASR8BTnn
+2. https://ide.geeksforgeeks.org/43d3qDfUxv
+3. https://ide.geeksforgeeks.org/dY9tHnSpIN
+4. https://ide.geeksforgeeks.org/Pdl0Mi75qs
+
