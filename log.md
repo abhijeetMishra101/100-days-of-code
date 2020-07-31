@@ -357,3 +357,8 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 3. https://ide.geeksforgeeks.org/dY9tHnSpIN
 4. https://ide.geeksforgeeks.org/Pdl0Mi75qs
 
+### Day 35: July 31, 2020
+1. Robin Karp Implementation for pattern search
+
+**Link**
+1. https://ide.geeksforgeeks.org/HOF5ZhT2qL
