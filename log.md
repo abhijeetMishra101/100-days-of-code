@@ -362,3 +362,9 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 
 **Link**
 1. https://ide.geeksforgeeks.org/HOF5ZhT2qL
+
+### Day 36: 1st August, 2020
+Find smallest window in string s containing all characters of string p in same order
+
+**Link**
+ https://ide.geeksforgeeks.org/F4Ago7PxyZ
