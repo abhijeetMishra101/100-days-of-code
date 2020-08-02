@@ -368,3 +368,11 @@ Find smallest window in string s containing all characters of string p in same o
 
 **Link**
  https://ide.geeksforgeeks.org/F4Ago7PxyZ
+ 
+ ### Day 37: 2nd August, 2020
+ 1. Minimum indexed character (Asked in Ola)(https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1/?track=SPC-Strings&batchId=145)
+ 2. Find nth number made out of prime digits(https://www.geeksforgeeks.org/finding-n-th-number-made-prime-digits/)
+ 
+ **Link**
+ 1.https://ide.geeksforgeeks.org/umkiQBfAbh
+ 2.https://ide.geeksforgeeks.org/9EayMSjzjk
