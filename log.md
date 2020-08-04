@@ -376,3 +376,11 @@ Find smallest window in string s containing all characters of string p in same o
  **Link**
  1.https://ide.geeksforgeeks.org/umkiQBfAbh
  2.https://ide.geeksforgeeks.org/9EayMSjzjk
+ 
+ ### Day 38: 4th August, 2020
+ 1. Case specific sorting for a string(https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/?track=SPC-Strings&batchId=145)
+ 2. Check if a string is pangram(https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1/?track=SPC-Strings&batchId=145)
+ 
+ **Link**
+ 1.https://ide.geeksforgeeks.org/p2hNrM5Eku
+ 2.https://ide.geeksforgeeks.org/XRdHw938vq
