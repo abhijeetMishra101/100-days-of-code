@@ -384,3 +384,9 @@ Find smallest window in string s containing all characters of string p in same o
  **Link**
  1.https://ide.geeksforgeeks.org/p2hNrM5Eku
  2.https://ide.geeksforgeeks.org/XRdHw938vq
+ 
+ ### Day 39: 5th August, 2020
+ 1. Finding length of longest substring which contains all distinct characters
+ 
+ **Link**
+ 1.https://ide.geeksforgeeks.org/upV3VKWSj2
