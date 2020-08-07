@@ -390,3 +390,10 @@ Find smallest window in string s containing all characters of string p in same o
  
  **Link**
  1.https://ide.geeksforgeeks.org/upV3VKWSj2
+ 
+ ### Day 40: 6th August, 2020
+ Finding lexicographic position of a string
+ 
+ **Link**
+ https://ide.geeksforgeeks.org/WBR8GwAmkU
+ 
