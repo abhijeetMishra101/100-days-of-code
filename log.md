@@ -397,3 +397,19 @@ Find smallest window in string s containing all characters of string p in same o
  **Link**
  https://ide.geeksforgeeks.org/WBR8GwAmkU
  
+ ### Day 41: 7th August, 2020
+ 
+ 1. Some basic theory about linked lists, doubly linked lists and circular linked lists
+ 2. Finding middle of linked list
+ 3. Finding nth node from end of linked list
+ 4. Reverse Linked List iterative
+ 5. Reverse Linked List Recursive
+ 
+ **Link**
+ 1. https://ide.geeksforgeeks.org/2Wcfw4Tvgq
+ 2. https://ide.geeksforgeeks.org/4jIzmj1dc4
+ 3. https://ide.geeksforgeeks.org/65gLYAb2R2
+ 4. https://ide.geeksforgeeks.org/tT2cF2gsFW
+ 5. https://ide.geeksforgeeks.org/yH4KassOwV
+ 
+ 
