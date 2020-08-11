@@ -412,4 +412,7 @@ Find smallest window in string s containing all characters of string p in same o
  4. https://ide.geeksforgeeks.org/tT2cF2gsFW
  5. https://ide.geeksforgeeks.org/yH4KassOwV
  
- 
+ ### Day 42: 11th August 2020
+ 1. Delete node from a linked list with just pointer to it
+ 2. Remove nodes from a sorted linked list
+ 3. Remove nodes from an unsorted linked list
