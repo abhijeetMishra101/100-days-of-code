@@ -416,3 +416,11 @@ Find smallest window in string s containing all characters of string p in same o
  1. Delete node from a linked list with just pointer to it
  2. Remove nodes from a sorted linked list
  3. Remove nodes from an unsorted linked list
+ 
+ ### Day 43: 12th August 2020
+ 1. Reverse a linked list k nodes at a time(Recursive Solution)
+ 2. Reverse a linked list k nodes at a time(Iterative Solution)
+ 
+ **Link**
+ 1. https://ide.geeksforgeeks.org/2VxfcVlVL1
+ 2. https://ide.geeksforgeeks.org/wSbi0uZf2L
