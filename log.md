@@ -424,3 +424,11 @@ Find smallest window in string s containing all characters of string p in same o
  **Link**
  1. https://ide.geeksforgeeks.org/2VxfcVlVL1
  2. https://ide.geeksforgeeks.org/wSbi0uZf2L
+ 
+ ### Day 44: 14th August 2020
+ 1. Detect cycle in linked list using Flyod Detect 
+ 2. Remove cycle after detection in linked list
+ 
+ **Link**
+ 1. https://ide.geeksforgeeks.org/qnAlfXvrLx
+ 2. https://ide.geeksforgeeks.org/sjEZn2uj8W
