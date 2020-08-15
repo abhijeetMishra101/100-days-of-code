@@ -432,3 +432,11 @@ Find smallest window in string s containing all characters of string p in same o
  **Link**
  1. https://ide.geeksforgeeks.org/qnAlfXvrLx
  2. https://ide.geeksforgeeks.org/sjEZn2uj8W
+ 
+ ## Day 45: 15th August 2020
+ 1. Segragate Even and Odd Nodes in a Linked List
+ 2. Find intersection point in two Linked Lists
+ 
+ **Link**
+ 1. https://ide.geeksforgeeks.org/leBzP0WZ62
+ 2. https://ide.geeksforgeeks.org/ljVYpXwRUt
