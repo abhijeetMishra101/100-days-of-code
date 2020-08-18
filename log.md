@@ -440,3 +440,9 @@ Find smallest window in string s containing all characters of string p in same o
  **Link**
  1. https://ide.geeksforgeeks.org/leBzP0WZ62
  2. https://ide.geeksforgeeks.org/ljVYpXwRUt
+ 
+ ## Day 46: 18th August 2020
+ 1. Pairwise swap linked list nodes
+ 
+ **Link**
+ 1. https://ide.geeksforgeeks.org/Wip9FtNJ4Z
