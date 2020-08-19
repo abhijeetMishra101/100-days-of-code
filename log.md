@@ -451,6 +451,8 @@ Find smallest window in string s containing all characters of string p in same o
  
  ## Day 47: 19th August 2020
  1. Find length of loop in a linked list
+ 2. Rotate a linked list
  
  **Link**
  1. https://ide.geeksforgeeks.org/uxUI98QFwG
+ 2. https://ide.geeksforgeeks.org/iVlKmyKTc6
