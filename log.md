@@ -466,7 +466,7 @@ Find smallest window in string s containing all characters of string p in same o
  https://ide.geeksforgeeks.org/yqDz5ImGxl
  
  ## Day 49: 21st August 2020
- Merge Sort for a doubly linked list
+  Merge Sort for a doubly linked list
  
  **Link**
  https://ide.geeksforgeeks.org/ac4Tbq5rmB
