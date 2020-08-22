@@ -486,7 +486,9 @@ Find smallest window in string s containing all characters of string p in same o
  ## Day 50: 22nd August 2020
  Array based implementation of Stack
  Linked List based implementation of Stack
+ Basic Functions for stack functionality
  
  **Link**
  https://ide.geeksforgeeks.org/rHXlTXowwW
  https://ide.geeksforgeeks.org/Wmhe2UbbLA
+ https://ide.geeksforgeeks.org/RG2fFywWq3
