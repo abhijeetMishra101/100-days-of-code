@@ -493,6 +493,7 @@ Find smallest window in string s containing all characters of string p in same o
  Implementing two stacks in an array
  Implementing stack using two queues
  Design a stack such that it's pop operation returns the mimimum element(https://practice.geeksforgeeks.org/problems/get-min-at-pop/1/?track=DSASP-Stack&batchId=145)
+ Delete middle of a stack
  
  **Link**
  https://ide.geeksforgeeks.org/rHXlTXowwW
@@ -504,3 +505,4 @@ Find smallest window in string s containing all characters of string p in same o
  https://ide.geeksforgeeks.org/A0SE7RrJVr
  https://ide.geeksforgeeks.org/Tm8CZSTqeJ
  https://ide.geeksforgeeks.org/F454O54G5U
+ https://ide.geeksforgeeks.org/QkJ0gojPhF
