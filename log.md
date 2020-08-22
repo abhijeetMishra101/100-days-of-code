@@ -485,26 +485,46 @@ Find smallest window in string s containing all characters of string p in same o
  
  ## Day 50: 22nd August 2020
  1)Array based implementation of Stack
+ 
  2)Linked List based implementation of Stack
+ 
  3)Basic Functions for stack functionality
+ 
  4)Removing contiguous duplicate characters from a string using stack
+ 
  5)Removing contiguous duplicates as pair from a string using stack(https://practice.geeksforgeeks.org/problems/removing-consecutive-duplicates-2-1587115621/1/?track=DSASP-Stack&batchId=145)
+ 
  6)Checking for parenthesis balanced string
+ 
  7)Implementing two stacks in an array
+ 
  8)Implementing stack using two queues
+ 
  9)Design a stack such that it's pop operation returns the mimimum element(https://practice.geeksforgeeks.org/problems/get-min-at-pop/1/?track=DSASP-Stack&batchId=145)
+ 
  10)Delete middle of a stack
+ 
  11)Implement push, pop and geMin for a stack in O(1) time
  
  **Link**
  1)https://ide.geeksforgeeks.org/rHXlTXowwW
+ 
  2)https://ide.geeksforgeeks.org/Wmhe2UbbLA
+ 
  3)https://ide.geeksforgeeks.org/RG2fFywWq3
+ 
  4)https://ide.geeksforgeeks.org/6F7hCzsrIp
+ 
  5)https://ide.geeksforgeeks.org/aCCQlgvHy7
+ 
  6)https://ide.geeksforgeeks.org/L1Oqa9Zsvs
+ 
  7)https://ide.geeksforgeeks.org/A0SE7RrJVr
+ 
  8)https://ide.geeksforgeeks.org/Tm8CZSTqeJ
+ 
  9)https://ide.geeksforgeeks.org/F454O54G5U
+ 
  10)https://ide.geeksforgeeks.org/QkJ0gojPhF
+ 
  11)https://ide.geeksforgeeks.org/xPUzJghRyf
