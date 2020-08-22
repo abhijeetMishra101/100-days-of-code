@@ -491,6 +491,7 @@ Find smallest window in string s containing all characters of string p in same o
  Removing contiguous duplicates as pair from a string using stack(https://practice.geeksforgeeks.org/problems/removing-consecutive-duplicates-2-1587115621/1/?track=DSASP-Stack&batchId=145)
  Checking for parenthesis balanced string
  Implementing two stacks in an array
+ Implementing stack using two queues
  
  **Link**
  https://ide.geeksforgeeks.org/rHXlTXowwW
@@ -500,3 +501,4 @@ Find smallest window in string s containing all characters of string p in same o
  https://ide.geeksforgeeks.org/aCCQlgvHy7
  https://ide.geeksforgeeks.org/L1Oqa9Zsvs
  https://ide.geeksforgeeks.org/A0SE7RrJVr
+ https://ide.geeksforgeeks.org/Tm8CZSTqeJ
