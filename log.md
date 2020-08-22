@@ -488,7 +488,7 @@ Find smallest window in string s containing all characters of string p in same o
  Linked List based implementation of Stack
  Basic Functions for stack functionality
  Removing contiguous duplicate characters from a string using stack
- Removing contiguous duplicates as pair from a string using stack
+ Removing contiguous duplicates as pair from a string using stack(https://practice.geeksforgeeks.org/problems/removing-consecutive-duplicates-2-1587115621/1/?track=DSASP-Stack&batchId=145)
  
  **Link**
  https://ide.geeksforgeeks.org/rHXlTXowwW
