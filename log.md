@@ -529,3 +529,9 @@ Find smallest window in string s containing all characters of string p in same o
  10)https://ide.geeksforgeeks.org/QkJ0gojPhF
  
  11)https://ide.geeksforgeeks.org/xPUzJghRyf
+ 
+ ## Day 51: 23rd August 2020
+ Simple preorder traversal implementation
+ 
+ **Link**
+ https://ide.geeksforgeeks.org/GRAGfG1tOR
