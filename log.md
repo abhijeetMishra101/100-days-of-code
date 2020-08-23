@@ -544,6 +544,8 @@ Find smallest window in string s containing all characters of string p in same o
  
  6) Level Order Traversal for binary tree with every level in a new line
  
+ 7) Get Maximum Width of Binary Tree
+ 
  **Link**
  1) https://ide.geeksforgeeks.org/GRAGfG1tOR
  
@@ -556,3 +558,5 @@ Find smallest window in string s containing all characters of string p in same o
  5) https://ide.geeksforgeeks.org/Fm3pCGuGzv
  
  6) https://ide.geeksforgeeks.org/d2Ryg2SGKu
+ 
+ 7) https://ide.geeksforgeeks.org/osWJOKLYS2
