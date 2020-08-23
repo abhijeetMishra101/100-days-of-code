@@ -532,6 +532,8 @@ Find smallest window in string s containing all characters of string p in same o
  
  ## Day 51: 23rd August 2020
  Simple preorder traversal implementation
+ Height of a binary tree
  
  **Link**
  https://ide.geeksforgeeks.org/GRAGfG1tOR
+ https://ide.geeksforgeeks.org/YMXkoc4DlR
