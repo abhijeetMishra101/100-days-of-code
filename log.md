@@ -538,9 +538,13 @@ Find smallest window in string s containing all characters of string p in same o
  
  3) Check if two binary trees are identical
  
+ 4) Check if binary tree has child sum property
+ 
  **Link**
  1) https://ide.geeksforgeeks.org/GRAGfG1tOR
  
  2) https://ide.geeksforgeeks.org/YMXkoc4DlR
  
  3) https://ide.geeksforgeeks.org/Fe7I7fkc9I
+
+ 4) https://ide.geeksforgeeks.org/giYtAfyGzl
