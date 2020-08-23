@@ -546,6 +546,8 @@ Find smallest window in string s containing all characters of string p in same o
  
  7) Get Maximum Width of Binary Tree
  
+ 8) Check for Balanced Tree
+ 
  **Link**
  1) https://ide.geeksforgeeks.org/GRAGfG1tOR
  
@@ -560,3 +562,5 @@ Find smallest window in string s containing all characters of string p in same o
  6) https://ide.geeksforgeeks.org/d2Ryg2SGKu
  
  7) https://ide.geeksforgeeks.org/osWJOKLYS2
+ 
+ 8) https://ide.geeksforgeeks.org/MrM8tjFpQ9
