@@ -567,6 +567,8 @@ Find smallest window in string s containing all characters of string p in same o
  
  ### Day 52: 24th August 2020
  1) Print left view of a binary tree
+ 2) Convert a binary tree to Doubly Linked List
  
  **Link**
  1) https://ide.geeksforgeeks.org/CborEVTlfW
+ 2) https://ide.geeksforgeeks.org/95GDUBamSx
