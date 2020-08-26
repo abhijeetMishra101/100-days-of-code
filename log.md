@@ -575,6 +575,8 @@ Find smallest window in string s containing all characters of string p in same o
  
  ### Day 53: 25th August 2020
  1) Print spiral order traversal of a binary tree using Stack
+ 2) Find diameter of a binary tree
  
  **Link**
  1) https://ide.geeksforgeeks.org/6XJFcPNFYs
+ 2) https://ide.geeksforgeeks.org/43lRzGBTm0
