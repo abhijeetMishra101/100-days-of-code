@@ -582,3 +582,9 @@ Find smallest window in string s containing all characters of string p in same o
  1) https://ide.geeksforgeeks.org/6XJFcPNFYs
  2) https://ide.geeksforgeeks.org/43lRzGBTm0
  3) https://ide.geeksforgeeks.org/Lah9QE1zqz
+ 
+ ### Day 54: 26th August 2020
+ 1) Time required to burn the binary tree starting from a leaf node
+ 
+ **Link**
+ 1) https://ide.geeksforgeeks.org/BDQMgcunEn
