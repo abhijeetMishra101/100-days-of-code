@@ -588,3 +588,9 @@ Find smallest window in string s containing all characters of string p in same o
  
  **Link**
  1) https://ide.geeksforgeeks.org/x4iA1tjnIR
+ 
+ ### Day 55: 27th August 2020
+ 1) Count number of nodes in a complete binary tree in less than O(n) time
+ 
+ **Link**
+  https://ide.geeksforgeeks.org/GpVDZ4ypVg
