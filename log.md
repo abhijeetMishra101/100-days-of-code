@@ -598,6 +598,8 @@ Find smallest window in string s containing all characters of string p in same o
 
 ### Day 56: 28th August 2020
 Print right view of a binary tree
+Print vertical width of a binary tree
 
 **Link**
  https://ide.geeksforgeeks.org/kiazVqsB8j
+ https://ide.geeksforgeeks.org/hlyBGfnk0p
