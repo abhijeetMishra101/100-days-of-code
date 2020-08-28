@@ -594,3 +594,10 @@ Find smallest window in string s containing all characters of string p in same o
  
  **Link**
   https://ide.geeksforgeeks.org/GpVDZ4ypVg
+
+
+### Day 56: 28th August 2020
+Print right view of a binary tree
+
+**Link**
+ https://ide.geeksforgeeks.org/kiazVqsB8j
