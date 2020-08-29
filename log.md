@@ -603,3 +603,11 @@ Print vertical width of a binary tree
 **Link**
  https://ide.geeksforgeeks.org/kiazVqsB8j
  https://ide.geeksforgeeks.org/hlyBGfnk0p
+ 
+ ### Day 57: 29th August 2020
+ Convert a singly linked list into a binary tree
+ Create a mirror binary tree
+ 
+ **Link**
+  https://ide.geeksforgeeks.org/9B9QzwtHdE
+  https://ide.geeksforgeeks.org/lSgPZsYKoG
