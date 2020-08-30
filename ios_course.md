@@ -55,4 +55,12 @@ Day 25: [Push Notifications - 2](https://www.raywenderlich.com/1258151-push-noti
 
 Day 26: [Background MOdes] (https://www.raywenderlich.com/5817-background-modes-tutorial-getting-started) (Non Video) (25th September 2020)
 
-Day 27: 
+Day 27: [Testing in iOS] (https://www.raywenderlich.com/8458722-testing-in-ios) (2hr 15min) (26th September 2020)
+
+Day 28: [Practical Instruments] (https://www.raywenderlich.com/4065-practical-instruments) (1hr 51min) (27th September 2020)
+
+Day 29: [Fundamental Design Patterns - 1] (https://www.raywenderlich.com/1941154-fundamental-ios-design-patterns) (1hr 20min) (28th September 2020)
+
+Day 29: [Fundamental Design Patterns - 2] (https://www.raywenderlich.com/1941154-fundamental-ios-design-patterns) (1hr 20min) (29th September 2020)
+
+Day 30: [Universal Links] (https://www.raywenderlich.com/6080-universal-links-make-the-connection) (Non Video) (30th September)
