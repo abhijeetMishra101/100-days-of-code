@@ -611,3 +611,11 @@ Print vertical width of a binary tree
  **Link**
   https://ide.geeksforgeeks.org/9B9QzwtHdE
   https://ide.geeksforgeeks.org/lSgPZsYKoG
+  
+  ### Day 58: 30th August 2020
+  Convert a binary tree into Circular Doubly Linked List
+  Connect nodes at the same level in a Binary Tree
+  
+  **Link**
+  https://ide.geeksforgeeks.org/3c6Tn413BB
+  https://ide.geeksforgeeks.org/23ARwOgai0
