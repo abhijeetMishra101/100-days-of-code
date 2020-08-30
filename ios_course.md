@@ -27,6 +27,16 @@ Day 11: [Stanford iOS Lecture 13](https://www.youtube.com/watch?v=fTNPRhGGP-0&li
 
 Day 12: [Stanford iOS Lecture 14](https://www.youtube.com/watch?v=GRX5Dha_Clw&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=4) (11th September 2020)
 
+Day 13: [Begining Table Views - 1](https://www.raywenderlich.com/5995-beginning-table-views) (2hr 8 min) (12th September 2020)
+
+Day 14: [Begining Table Views - 2](https://www.raywenderlich.com/5995-beginning-table-views) (2hr 8 min) (13th September 2020)
+
+Day 15: [Begining Collection Views - 1](https://www.raywenderlich.com/6308-beginning-collection-views) (1hr 7 min) (14th September 2020)
+
+Day 16: [Begining Collection Views - 2](https://www.raywenderlich.com/6308-beginning-collection-views) (1hr 7 min) (15th September 2020)
+
+
+
 
 
 
