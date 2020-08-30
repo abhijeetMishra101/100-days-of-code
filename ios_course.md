@@ -1,4 +1,7 @@
-Day 0: [Stanford iOS Lecture 2](https://www.youtube.com/watch?v=4GjXq2Sr55Q&t=2196s)
+
+Daily target lectures with their respective target dates. Also contains their status marked as either :white_check_mark: or :x:
+
+Day 0: [Stanford iOS Lecture 2](https://www.youtube.com/watch?v=4GjXq2Sr55Q&t=2196s) 
 
 Day 1: [Stanford iOS Lecture 3](https://www.youtube.com/watch?v=SIYdYpPXil4&t=4s)
 
