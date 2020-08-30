@@ -35,9 +35,24 @@ Day 15: [Begining Collection Views - 1](https://www.raywenderlich.com/6308-begin
 
 Day 16: [Begining Collection Views - 2](https://www.raywenderlich.com/6308-beginning-collection-views) (1hr 7 min) (15th September 2020)
 
+Day 17: [Begining iOS Animations](https://www.raywenderlich.com/10523008-beginning-ios-animations) (2hr 8min) (16th September 2020)
 
+Day 18: [Saving Data in iOS](https://www.raywenderlich.com/6307-saving-data-in-ios) (1hr 19min) (17th September 2020)
 
+Day 19: [Begining Core Data - 1](https://www.raywenderlich.com/10794954-beginning-core-data) (1hr 18min) (18th September 2020)
 
+Day 20: [Begining Core Data - 2](https://www.raywenderlich.com/10794954-beginning-core-data) (1hr 18min) (19th September 2020)
 
+Day 21: [Networking with URLSession](https://www.raywenderlich.com/7476-networking-with-urlsession) (1hr 42min) (20th September 2020)
 
+Day 22: [iOS Concurrency with GCD & Operations - 1](https://www.raywenderlich.com/9461083-ios-concurrency-with-gcd-and-operations) (1hr 40min) (21st September 2020)
 
+Day 23: [iOS Concurrency with GCD & Operations - 2](https://www.raywenderlich.com/9461083-ios-concurrency-with-gcd-and-operations) (1hr 40min) (22nd September 2020)
+
+Day 24: [Push Notifications - 1](https://www.raywenderlich.com/1258151-push-notifications) (1hr 15min) (23rd September 2020)
+
+Day 25: [Push Notifications - 2](https://www.raywenderlich.com/1258151-push-notifications) (1hr 15min) (24th September 2020)
+
+Day 26: [Background MOdes] (https://www.raywenderlich.com/5817-background-modes-tutorial-getting-started) (Non Video) (25th September 2020)
+
+Day 27: 
