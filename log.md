@@ -619,3 +619,9 @@ Print vertical width of a binary tree
   **Link**
   https://ide.geeksforgeeks.org/3c6Tn413BB
   https://ide.geeksforgeeks.org/23ARwOgai0
+  
+  ### Day 59: 31st August 2020
+  Construct a binary tree from inorder and postorder traversals
+  
+  **Link**
+  https://ide.geeksforgeeks.org/64TPPkoRUT
