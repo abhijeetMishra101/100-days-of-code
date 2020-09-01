@@ -625,3 +625,9 @@ Print vertical width of a binary tree
   
   **Link**
   https://ide.geeksforgeeks.org/64TPPkoRUT
+  
+  ### Day 60: 1st September 2020
+  Serialize and De-serialize a binary tree
+  
+  **Link**
+  https://ide.geeksforgeeks.org/wJwrNnZD8E
