@@ -628,6 +628,8 @@ Print vertical width of a binary tree
   
   ### Day 60: 1st September 2020
   Serialize and De-serialize a binary tree
+  Check if a binary tree is foldable
   
   **Link**
   https://ide.geeksforgeeks.org/wJwrNnZD8E
+  https://ide.geeksforgeeks.org/DYZeuZfd9k
