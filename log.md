@@ -636,6 +636,8 @@ Print vertical width of a binary tree
   
   ### Day 61: 2nd September 2020
   Print zig zag traversal of a binary tree
+  Find maximum sum path of a binary tree
   
   **Link**
   https://ide.geeksforgeeks.org/fxTvOfoR46
+  https://ide.geeksforgeeks.org/UfKnQuUOPM
