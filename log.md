@@ -633,3 +633,9 @@ Print vertical width of a binary tree
   **Link**
   https://ide.geeksforgeeks.org/wJwrNnZD8E
   https://ide.geeksforgeeks.org/DYZeuZfd9k
+  
+  ### Day 61: 2nd September 2020
+  Print zig zag traversal of a binary tree
+  
+  **Link**
+  https://ide.geeksforgeeks.org/fxTvOfoR46
