@@ -641,3 +641,9 @@ Print vertical width of a binary tree
   **Link**
   https://ide.geeksforgeeks.org/fxTvOfoR46
   https://ide.geeksforgeeks.org/UfKnQuUOPM
+  
+  ### Day 62: 3rd September 2020
+  Maximum difference between node and its ancestor
+  
+  **Link**
+   https://ide.geeksforgeeks.org/UNjzKbwqnQ
