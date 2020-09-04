@@ -11,7 +11,7 @@ Daily target lectures with their respective target dates. Also contains their st
 
 ~~Day 4: [Stanford iOS Lecture 6](https://www.youtube.com/watch?v=3krC2c56ceQ)~~(1hr 30min) (3rd September 2020) :white_check_mark:
 
-Day 5: [Stanford iOS Lecture 7](https://www.youtube.com/watch?v=tmx-OwkBWxA)(1hr 30min) (4th September 2020)
+~~Day 5: [Stanford iOS Lecture 7](https://www.youtube.com/watch?v=tmx-OwkBWxA)~~(1hr 30min) (4th September 2020) :white_check_mark:
 
 Day 6: [Stanford iOS Lecture 8](https://www.youtube.com/watch?v=mz-rNLWJ0bk&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=8)(1hr 15min) (5th September 2020)
 
