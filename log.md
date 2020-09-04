@@ -649,3 +649,9 @@ Print vertical width of a binary tree
   **Link**
    https://ide.geeksforgeeks.org/UNjzKbwqnQ
    https://ide.geeksforgeeks.org/DEP48WW6q1
+   
+   ### Day 63: 4th September 2020
+   Number of Nodes at distance k from leaf
+   
+   **Link**
+   https://ide.geeksforgeeks.org/T2BhA2193z
