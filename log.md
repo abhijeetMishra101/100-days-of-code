@@ -658,6 +658,8 @@ Print vertical width of a binary tree
    
    ### Day 64: 5th September 2020
    Find Floor of a BST
+   Find Ceil of a BST
    
    **Link**
    https://ide.geeksforgeeks.org/w3IsNbE81O
+   https://ide.geeksforgeeks.org/K8FUj7IEwg
