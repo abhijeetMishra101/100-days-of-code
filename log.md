@@ -663,3 +663,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/w3IsNbE81O
    https://ide.geeksforgeeks.org/K8FUj7IEwg
+   
+   ### Day 65: 10th September 2020
+   Find common nodes in two BSTs
+   
+   **Link**
+   https://ide.geeksforgeeks.org/5jIChLJYqj
