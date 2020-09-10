@@ -666,6 +666,8 @@ Print vertical width of a binary tree
    
    ### Day 65: 10th September 2020
    Find common nodes in two BSTs
+   Find LCA of a BST
    
    **Link**
    https://ide.geeksforgeeks.org/5jIChLJYqj
+   https://ide.geeksforgeeks.org/hPIDp7jRLG
