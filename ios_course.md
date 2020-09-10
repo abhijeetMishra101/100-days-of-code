@@ -17,13 +17,13 @@ Daily target lectures with their respective target dates. Also contains their st
 
 ~~Day 7: [Stanford iOS Lecture 9](https://www.youtube.com/watch?v=0i152oA3T3s&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=7)~~(1hr 13min) (6th September 2020) :white_check_mark:
 
-Day 8: [Stanford iOS Lecture 10](https://www.youtube.com/watch?v=CKexGQuIO7E&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=6)(1hr 43min) (7th September 2020)
+Day 8: [Stanford iOS Lecture 10](https://www.youtube.com/watch?v=CKexGQuIO7E&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=6)(1hr 43min) (7th September 2020):x:
 
-Day 9: [Stanford iOS Lecture 11](https://www.youtube.com/watch?v=fCfC6m7XUew&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=3)(49min) (8th September 2020)
+Day 9: [Stanford iOS Lecture 11](https://www.youtube.com/watch?v=fCfC6m7XUew&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=3)(49min) (8th September 2020):x:
 
-Day 10: [Stanford iOS Lecture 12](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=1)(1hr 33min) (9th September 2020)
+~~Day 10: [Stanford iOS Lecture 12](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=1)~~(1hr 33min) (10th September 2020):white_check_mark:
 
-Day 11: [Stanford iOS Lecture 13](https://www.youtube.com/watch?v=fTNPRhGGP-0&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=2)(1hr 02min) (10th September 2020)
+Day 11: [Stanford iOS Lecture 13](https://www.youtube.com/watch?v=fTNPRhGGP-0&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=2)(1hr 02min) (9th September 2020) :x:
 
 Day 12: [Stanford iOS Lecture 14](https://www.youtube.com/watch?v=GRX5Dha_Clw&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=4)(1hr 01min) (11th September 2020)
 
