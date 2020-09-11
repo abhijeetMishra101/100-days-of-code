@@ -23,7 +23,7 @@ Day 9: [Stanford iOS Lecture 11](https://www.youtube.com/watch?v=fCfC6m7XUew&lis
 
 ~~Day 10: [Stanford iOS Lecture 12](https://www.youtube.com/watch?v=yOhyOpXvaec&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=1)~~(1hr 33min) (10th September 2020):white_check_mark:
 
-Day 11: [Stanford iOS Lecture 13](https://www.youtube.com/watch?v=fTNPRhGGP-0&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=2)(1hr 02min) (9th September 2020) :x:
+~~Day 11: [Stanford iOS Lecture 13](https://www.youtube.com/watch?v=fTNPRhGGP-0&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=2)~~(1hr 02min) (9th September 2020):white_check_mark: :x:
 
 Day 12: [Stanford iOS Lecture 14](https://www.youtube.com/watch?v=GRX5Dha_Clw&list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG&index=4)(1hr 01min) (11th September 2020)
 
