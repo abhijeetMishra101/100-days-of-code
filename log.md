@@ -671,3 +671,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/5jIChLJYqj
    https://ide.geeksforgeeks.org/hPIDp7jRLG
+   
+   ### Day 66: 11th September 2020
+   Perform deletion of a node in a BST
+   
+   **Link**
+   https://ide.geeksforgeeks.org/zegb07IUfc
