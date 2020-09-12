@@ -675,7 +675,9 @@ Print vertical width of a binary tree
    ### Day 66: 11th September 2020
    Perform deletion of a node in a BST
    Print all elements of a BST in a given range
+   Pair Sum in a BST
    
    **Link**
    https://ide.geeksforgeeks.org/zegb07IUfc
    https://ide.geeksforgeeks.org/m1VXXSL86D
+   https://ide.geeksforgeeks.org/A9krs3wpT1
