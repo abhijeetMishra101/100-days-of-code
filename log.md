@@ -681,3 +681,9 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/zegb07IUfc
    https://ide.geeksforgeeks.org/m1VXXSL86D
    https://ide.geeksforgeeks.org/A9krs3wpT1
+   
+   ### Day 67: 13th September 2020
+   Print Vertical Traversal of Binary Tree
+   
+   **Link**
+   https://ide.geeksforgeeks.org/k4UIyEN2ik
