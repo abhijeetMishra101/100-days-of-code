@@ -687,3 +687,16 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/k4UIyEN2ik
+   
+   ### Day 68: 14th September 2020
+   
+   Print top view of a Binary Tree(https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1/?track=DSASP-BST&batchId=145)
+   Print bottom view of a Binary Tree(https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1/?track=DSASP-BST&batchId=145)
+   Check for BST(https://practice.geeksforgeeks.org/problems/check-for-bst/1/?track=DSASP-BST&batchId=145)
+   Find closest element in a BST(https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1/?track=DSASP-BST&batchId=145)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/2H3VEABdBG
+   https://ide.geeksforgeeks.org/AX18j2Hpsx
+   https://ide.geeksforgeeks.org/DjcXpHUOJZ
+   https://ide.geeksforgeeks.org/8ICG83fQLG
