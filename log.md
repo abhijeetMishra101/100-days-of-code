@@ -707,4 +707,3 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/elYfHNIcwR
    
-   https://ide.geeksforgeeks.org/8ICG83fQLG
