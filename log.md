@@ -709,7 +709,9 @@ Print vertical width of a binary tree
    
    ### Day 70: 16th September 2020
    Count number of nodes lying in a given range l-h both inclusive
+   Create a Binary Search Tree from a preorder traversal
    
    **Link**
    https://ide.geeksforgeeks.org/7bPDorq9DU
+   https://ide.geeksforgeeks.org/XDmOch4cv0
    
