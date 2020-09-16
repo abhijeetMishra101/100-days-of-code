@@ -700,3 +700,11 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/AX18j2Hpsx
    https://ide.geeksforgeeks.org/DjcXpHUOJZ
    https://ide.geeksforgeeks.org/8ICG83fQLG
+   
+   ### Day 69: 14th September 2020
+   Convert Level Order Traversal into Binary Tree
+   
+   **Link**
+   https://ide.geeksforgeeks.org/elYfHNIcwR
+   
+   https://ide.geeksforgeeks.org/8ICG83fQLG
