@@ -715,3 +715,8 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/7bPDorq9DU
    https://ide.geeksforgeeks.org/XDmOch4cv0
    
+   ### Day 71: 17th September 2020
+   Fixing Two nodes of a BST
+   
+   **Link**
+   https://ide.geeksforgeeks.org/UcEudRSuwv
