@@ -720,3 +720,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/UcEudRSuwv
+   
+   ### Day 72: 18th September 2020
+   Merge two BSTs
+   
+   **Link**
+   https://ide.geeksforgeeks.org/QObIn13jVr
