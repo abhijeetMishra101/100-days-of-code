@@ -728,7 +728,7 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/QObIn13jVr
    
    ### Day 73: 19th September 2020
-   Merge Nearly Sorted Array
+   Nearly Sorted Array
    
    **Link**
    https://ide.geeksforgeeks.org/465R0bebqD
