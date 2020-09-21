@@ -732,3 +732,16 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/465R0bebqD
+   
+   ### Day 74: 20th September 2020
+   Find k most frequent occurring elements in an unsorted array
+   Find kth smallest element in an unsorted array
+   Find kth largest element in an unsorted array
+   Find k largest elements in an unsorted array
+   
+   **Link**
+   https://ide.geeksforgeeks.org/NZKfbDkL87
+   https://ide.geeksforgeeks.org/o5KfzsSrel
+   https://ide.geeksforgeeks.org/OKsNNKwt9o
+   https://ide.geeksforgeeks.org/2nixBZ8APH
+   
