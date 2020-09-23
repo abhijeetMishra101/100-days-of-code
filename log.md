@@ -745,3 +745,9 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/OKsNNKwt9o
    https://ide.geeksforgeeks.org/2nixBZ8APH
    
+   ### Day 75: 23rd September 2020
+   Find kth largest number in a stream
+   
+   **Link**
+   https://ide.geeksforgeeks.org/fQn9Ww55rh
+   
