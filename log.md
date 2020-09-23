@@ -748,8 +748,10 @@ Print vertical width of a binary tree
    ### Day 75: 23rd September 2020
    Find kth largest number in a stream
    Find minimum cost to connect ropes
+   Merge k sorted arrays
    
    **Link**
    https://ide.geeksforgeeks.org/fQn9Ww55rh
    https://ide.geeksforgeeks.org/9ce3GbTPSl
+   https://ide.geeksforgeeks.org/zb61ZWRwk5
    
