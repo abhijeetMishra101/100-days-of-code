@@ -755,3 +755,9 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/9ce3GbTPSl
    https://ide.geeksforgeeks.org/zb61ZWRwk5
    
+   ### Day 76: 24th September 2020
+   Find Longest Common Subsequence (Both recursive and DP)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/u2imtshzSV
+   
