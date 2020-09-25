@@ -757,7 +757,9 @@ Print vertical width of a binary tree
    
    ### Day 76: 24th September 2020
    Find Longest Common Subsequence (Both recursive and DP)
+   Coin Change Problem / Number of ways to create a sum using infinite supply of coin types (Both recursive and DP)
    
    **Link**
    https://ide.geeksforgeeks.org/u2imtshzSV
+   https://ide.geeksforgeeks.org/IzjvItSFWX
    
