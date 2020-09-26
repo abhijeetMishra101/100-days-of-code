@@ -763,3 +763,9 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/u2imtshzSV
    https://ide.geeksforgeeks.org/IzjvItSFWX
    
+   ### Day 77: 26th September 2020
+   Edit Distance Problem
+   
+   **Link**
+   https://ide.geeksforgeeks.org/5gVm4hjs75
+   
