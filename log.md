@@ -768,10 +768,12 @@ Print vertical width of a binary tree
    Longest Increasing Subsequence
    Maximize Cut Segments
    Minimum Number of jumps to reach the end
+   Minimum Number of coins required to make a value
    
    **Link**
    https://ide.geeksforgeeks.org/5gVm4hjs75
    https://ide.geeksforgeeks.org/prpShkzdb1
    https://ide.geeksforgeeks.org/W3l0X2V9GS
    https://ide.geeksforgeeks.org/xMHd73p9X1
+   https://ide.geeksforgeeks.org/XntKsSWe1I
    
