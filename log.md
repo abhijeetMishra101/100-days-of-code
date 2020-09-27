@@ -777,3 +777,9 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/xMHd73p9X1
    https://ide.geeksforgeeks.org/XntKsSWe1I
    
+   ### Day 78: 28th September 2020
+   0/1 Knapsack problem
+   
+   **Link**
+   https://ide.geeksforgeeks.org/lBSgz0fpMN
+   
