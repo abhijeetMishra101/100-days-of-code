@@ -777,7 +777,7 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/xMHd73p9X1
    https://ide.geeksforgeeks.org/XntKsSWe1I
    
-   ### Day 78: 28th September 2020
+   ### Day 78: 27th September 2020
    0/1 Knapsack problem
    Optimal Strategy for a game
    
