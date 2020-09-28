@@ -785,3 +785,10 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/lBSgz0fpMN
    https://ide.geeksforgeeks.org/88DvYuScKq
    
+   
+   ### Day 79: 28th September 2020
+   Egg Dropping Puzzle
+   
+   **Link**
+   https://ide.geeksforgeeks.org/j8J5ENjEFf
+   
