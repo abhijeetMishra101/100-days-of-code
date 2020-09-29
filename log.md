@@ -792,3 +792,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/j8J5ENjEFf
    
+   ### Day 80: 29th September 2020
+   Number of unique binary search trees with a given key
+   
+   **Link**
+   https://ide.geeksforgeeks.org/5ujshZWjSL
+   
