@@ -796,5 +796,5 @@ Print vertical width of a binary tree
    Number of unique binary search trees with a given key
    
    **Link**
-   https://ide.geeksforgeeks.org/5ujshZWjSL
+   https://ide.geeksforgeeks.org/HJheCw05Yk
    
