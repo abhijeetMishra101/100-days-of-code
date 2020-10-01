@@ -798,3 +798,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/HJheCw05Yk
    
+   ### Day 81: Max sum subarray by removing at most one element
+   
+   **Link**
+   https://ide.geeksforgeeks.org/HJheCw05Yk
+   
+   
