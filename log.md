@@ -803,4 +803,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/HJheCw05Yk
    
+   ### Day 82: Write nCr function
+   
+   **Link**
+   https://ide.geeksforgeeks.org/noJpdPlxRj
+   
    
