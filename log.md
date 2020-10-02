@@ -798,14 +798,23 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/HJheCw05Yk
    
-   ### Day 81: Max sum subarray by removing at most one element
+   ### Day 81: 30th September 2020
+   Max sum subarray by removing at most one element
    
    **Link**
    https://ide.geeksforgeeks.org/HJheCw05Yk
    
-   ### Day 82: Write nCr function
+   ### Day 82: 1st October 2020
+   Write nCr function
    
    **Link**
    https://ide.geeksforgeeks.org/noJpdPlxRj
+   
+   ### Day 83: 2nd October 2020
+   Stickler Theif (https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/?track=DSASP-DP&batchId=145)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/mUKZhRaJaf
+   
    
    
