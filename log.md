@@ -816,5 +816,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/mUKZhRaJaf
    
+   ### Day 84: 3rd October 2020
+   Partition Problem(https://www.geeksforgeeks.org/partition-problem-dp-18/)
    
+   **Link**
+   https://ide.geeksforgeeks.org/xxmY9AbTN5
    
