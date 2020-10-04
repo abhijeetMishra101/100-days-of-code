@@ -830,7 +830,9 @@ Print vertical width of a binary tree
    
    ### Day 86: 5th October 2020
    Number of Unique Paths (https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/?track=DSASP-DP&batchId=145)
+   Shortest Common Supersequence
    
    **Link**
    https://ide.geeksforgeeks.org/SFGfcZQijJ
+   https://ide.geeksforgeeks.org/G8crPfseKs
    
