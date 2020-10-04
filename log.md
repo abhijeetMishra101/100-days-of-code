@@ -828,3 +828,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/6ccwXIY6jI
    
+   ### Day 86: 5th October 2020
+   Number of Unique Paths (https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/?track=DSASP-DP&batchId=145)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/SFGfcZQijJ
+   
