@@ -833,10 +833,11 @@ Print vertical width of a binary tree
    Shortest Common Supersequence
    Longest Common Subsequence
    Sum of all subtrings of a number(https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1/?track=DSASP-DP&batchId=145)
+   Reach a given score (https://practice.geeksforgeeks.org/problems/reach-a-given-score1418/1/?track=DSASP-DP&batchId=145)
    
    **Link**
    https://ide.geeksforgeeks.org/SFGfcZQijJ
    https://ide.geeksforgeeks.org/G8crPfseKs
    https://ide.geeksforgeeks.org/zUljND5fDU
    https://ide.geeksforgeeks.org/c4JXmRF1RB
-   
+   https://ide.geeksforgeeks.org/f9tDW5Ulw3
