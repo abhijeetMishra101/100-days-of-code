@@ -835,6 +835,7 @@ Print vertical width of a binary tree
    Sum of all subtrings of a number(https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1/?track=DSASP-DP&batchId=145)
    Reach a given score (https://practice.geeksforgeeks.org/problems/reach-a-given-score1418/1/?track=DSASP-DP&batchId=145)
    Count ways to N'th Stair(Order does not matter)(https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/?track=DSASP-DP&batchId=145)
+   Count ways to N'th Stair(All Permutations)(https://practice.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1/?track=DSASP-DP&batchId=145)
    
    **Link**
    https://ide.geeksforgeeks.org/SFGfcZQijJ
@@ -843,3 +844,4 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/c4JXmRF1RB
    https://ide.geeksforgeeks.org/f9tDW5Ulw3
    https://ide.geeksforgeeks.org/iBtD4hoGWB
+   https://ide.geeksforgeeks.org/xRMG06d2zH
