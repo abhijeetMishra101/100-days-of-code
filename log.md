@@ -832,9 +832,11 @@ Print vertical width of a binary tree
    Number of Unique Paths (https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/?track=DSASP-DP&batchId=145)
    Shortest Common Supersequence
    Longest Common Subsequence
+   Sum of all subtrings of a number(https://practice.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1/?track=DSASP-DP&batchId=145)
    
    **Link**
    https://ide.geeksforgeeks.org/SFGfcZQijJ
    https://ide.geeksforgeeks.org/G8crPfseKs
    https://ide.geeksforgeeks.org/zUljND5fDU
+   https://ide.geeksforgeeks.org/c4JXmRF1RB
    
