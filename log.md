@@ -822,3 +822,9 @@ Print vertical width of a binary tree
    **Link**
    https://ide.geeksforgeeks.org/xxmY9AbTN5
    
+   ### Day 85: 4th October 2020
+   Maximize the Cuts (https://practice.geeksforgeeks.org/problems/cutted-segments1642/1/?track=DSASP-DP&batchId=145)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/6ccwXIY6jI
+   
