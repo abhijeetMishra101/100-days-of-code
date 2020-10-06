@@ -845,3 +845,9 @@ Print vertical width of a binary tree
    https://ide.geeksforgeeks.org/f9tDW5Ulw3
    https://ide.geeksforgeeks.org/iBtD4hoGWB
    https://ide.geeksforgeeks.org/xRMG06d2zH
+   
+   ### Day 87: 6th October 2020
+   Rat in a maze problem (https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/RGfrvEnlty
