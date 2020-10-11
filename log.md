@@ -850,4 +850,4 @@ Print vertical width of a binary tree
    Rat in a maze problem (https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
    
    **Link**
-   https://ide.geeksforgeeks.org/RGfrvEnlty & https://ide.geeksforgeeks.org/hn3BGyDOUv
+   https://ide.geeksforgeeks.org/RGfrvEnlty & https://ide.geeksforgeeks.org/URefuNJtlA
