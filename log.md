@@ -851,3 +851,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/RGfrvEnlty & https://ide.geeksforgeeks.org/URefuNJtlA
+   
+   ### Day 88: 11th October 2020
+   N Queen Problem
+   
+   **Link**
+   https://ide.geeksforgeeks.org/YN0uL6WSXL
