@@ -857,3 +857,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/YN0uL6WSXL
+   
+   ### Day 89: 12th October 2020
+   Print adjacency list of a graph
+   
+   **Link**
+   https://ide.geeksforgeeks.org/4tJ5R50hNv
