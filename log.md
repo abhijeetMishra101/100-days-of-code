@@ -891,3 +891,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/GAXAbamz6T
+   
+   ### Day 94: 25th Oct 2020
+   Prim's algorithm for finding minimum spanning tree
+   
+   **Link**
+   https://ide.geeksforgeeks.org/wRoobMvoCe
