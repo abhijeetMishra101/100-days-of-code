@@ -897,3 +897,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/wRoobMvoCe
+   
+   ### Day 95: 31st Oct 2020
+   Dijkstra's algorithm Implementation
+   
+   **Link**
+   https://ide.geeksforgeeks.org/7dv8Llj7xD
