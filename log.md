@@ -903,3 +903,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/7dv8Llj7xD
+   
+   ### Day 96: 1st Nov 2020
+   Counting number of strongly connected graphs (Kosaraju's algorithm)
+   
+   **Link**
+   https://ide.geeksforgeeks.org/JMr1WzJIRU
