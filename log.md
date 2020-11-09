@@ -909,3 +909,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/mMvcHAgw6f
+   
+   ### Day 97: 9th Nov 2020
+   Number of swaps required to make an array in non decreasing order
+   
+   **Link**
+   https://ide.geeksforgeeks.org/Cu8LAIoHvN
