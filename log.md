@@ -915,3 +915,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/Cu8LAIoHvN
+   
+   ### Day 98: 23rd Nov 2020
+   Number of unique BST with given key
+   
+   **Link**
+   https://ide.geeksforgeeks.org/9CCFNmHKnk
