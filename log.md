@@ -921,3 +921,9 @@ Print vertical width of a binary tree
    
    **Link**
    https://ide.geeksforgeeks.org/9CCFNmHKnk
+   
+   ### Day 99: 30th Nov 2020
+   Jump Game III : Given an array of non-negative integers arr, you are initially positioned at start index of the array. When you are at index i, you can jump to i + arr[i] or i - arr[i], check if you can reach to any index with value 0.
+   
+   **Link** 
+   https://ide.geeksforgeeks.org/BLY4bhT1GK
