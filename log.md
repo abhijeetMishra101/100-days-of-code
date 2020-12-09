@@ -927,3 +927,9 @@ Print vertical width of a binary tree
    
    **Link** 
    https://ide.geeksforgeeks.org/BLY4bhT1GK
+   
+   ### Day 100: 10th Dec 2020
+   Check if kth bit is set or not
+   
+   **Link**
+   https://ide.geeksforgeeks.org/d0f4j1ZmUG
